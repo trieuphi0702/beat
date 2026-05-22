@@ -1,0 +1,6 @@
+{
+  "name": "BeatMix DJ",
+  "description": "High-performance DJ Music Mixer with custom low-latency synthesis, 8-drum pad sampler, interactive vinyl scratching, 3-band EQ, and AI stem isolation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
